@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Matheus Romualdo, sou natural de São Paulo Capital. Concluí o ensino médio na Escola e Faculdade Fortec, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP. 
+Me chamo Matheus Romualdo, sou natural de Santos. Concluí o ensino médio na Escola e Faculdade Fortec, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP. 
 
 ---
 
