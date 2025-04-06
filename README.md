@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Matheus Romualdo
 
-**`Desenvolvedor Back-End`**
+**`Desenvolvedor Back-End - Back-End Developer`**
 
 Me chamo Matheus Romualdo, sou natural de Santos - SP. Concluí o ensino médio na Escola e Faculdade Fortec, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP.
 
