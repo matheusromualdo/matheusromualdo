@@ -8,7 +8,7 @@ I'm Matheus Romualdo, I'm natural from Santos - SP, I completed high school at E
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias - Languages and Technologies
 
 <img 
     align="left" 
